@@ -40,6 +40,8 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
+- Version control using Git
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
